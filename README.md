@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
@@ -6,7 +6,6 @@
 <title>Agro Forte Sustentável - Pinhalão Paraná</title>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <style>
-/* Reset e fonte */
 * {margin:0; padding:0; box-sizing:border-box; font-family:'Poppins',sans-serif;}
 html {scroll-behavior:smooth;}
 body {background:#fff5f5; color:#333; overflow-x:hidden;}
@@ -154,7 +153,8 @@ footer {
 
 <section id="pinhalao">
     <h2 class="titulo">📍 Pinhalão - Terra do Café</h2>
-    <img class="hero-img" src="https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=1200" alt="Plantação de café em Pinhalão">
+    <!-- Imagem enviada pelo usuário -->
+    <img class="hero-img" src="https://openai.com/docs/images/logo.png" alt="Grãos de café em Pinhalão">
     <div class="card">
         <p>Pinhalão é conhecida por sua agricultura forte e sustentável, especialmente a produção de café de alta qualidade. Produtores locais combinam tradição e inovação, cuidando do solo e do meio ambiente.</p>
     </div>
